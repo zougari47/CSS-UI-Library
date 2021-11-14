@@ -8,3 +8,5 @@ In the end, I will make the main page that presents all links to the projects, o
 
 - [Auto Typing](.)
 - [Color typing]()
+- [Floating Text Animation]()
+- [Shining Text Animation]()
